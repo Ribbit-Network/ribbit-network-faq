@@ -5,6 +5,10 @@ Ribbit Network is the world's largest crowdsourced network of open-source, low-c
 
 This project will create the world's largest Greenhouse Gas Emissions dataset that will empower anyone to join in the work on climate and provide informed data for climate action.
 
+See more details about:
+* [The Web Database](https://github.com/Ribbit-Network/ribbit-network-dashboard/blob/main/README.md)
+* [The Frog Sensors](https://github.com/Ribbit-Network/ribbit-network-frog-sensor)
+
 ## F.A.Q.
 
 ### How does this more distributed sensor device approach compare to current techniques of monitoring atmospheric CO2 (e.g. from orbit via satellite)?
