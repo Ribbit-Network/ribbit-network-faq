@@ -11,6 +11,9 @@ See more details about:
 
 ## F.A.Q.
 
+### Do I need to build a Frog Sensor myself or can I buy one pre-assembled?
+This project is and will always be Open-Source, meaning you are encouraged to build a sensor yourself! However, you can also purchase an assembled sensor at [ribbitnetwork.org](https://ribbitnetwork.org/).
+
 ### How does the sensor connect to the Internet?
 The sensor uses a wi-fi radio to connect to the internet in order to send sensor data to the Ribbit Network Database and recieve Software Updates from the Ribbit team.
 
