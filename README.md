@@ -11,6 +11,12 @@ See more details about:
 
 ## F.A.Q.
 
+### How does the sensor connect to the Internet?
+The sensor uses a wi-fi radio to connect to the internet in order to send sensor data to the Ribbit Network Database and recieve Software Updates from the Ribbit team.
+
+### Is it possible to connect the sensor using an ethernet cord instead of wi-fi?
+Yes, this is possible, as there is an ethernet port on the Raspberry Pi carrier board inside.
+
 ### How long is the power cord?
 The power cable is 1.5 meters (5 feet) long. An extension cord can easily be added if you need a longer cord.
 
