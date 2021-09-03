@@ -11,6 +11,9 @@ See more details about:
 
 ## F.A.Q.
 
+### How long is the power cord?
+The power cable is 1.5 meters (5 feet) long. An extension cord can easily be added if you need a longer cord.
+
 ### How does this more distributed sensor device approach compare to current techniques of monitoring atmospheric CO2 (e.g. from orbit via satellite)?
 
 Atmospheric monitoring from space is an exciting development that has a lot of potential. I'm from an aerospace background, so that was of course where I looked first. However, it's not a magic bullet solution, so I think that the best version of the future is to develop both technologies that can work together:
