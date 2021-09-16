@@ -17,8 +17,11 @@ This project is and will always be Open-Source, meaning you are encouraged to bu
 ### How does the sensor connect to the Internet?
 The sensor uses a wi-fi radio to connect to the internet in order to send sensor data to the Ribbit Network Database and recieve Software Updates from the Ribbit team.
 
+### Can the public data be used to locate my sensor?
+[The sensor rounds it's GPS location](https://github.com/Ribbit-Network/ribbit-network-frog-sensor/issues/41) it publishes to the public database. This means that it is not possible to specifically locate the sensor. Additionally, the sensor does not contain or publish any personal data, limiting privacy concerns.
+
 ### Is it possible to connect the sensor using an ethernet cord instead of wi-fi?
-Yes, this is possible, as there is an ethernet port on the Raspberry Pi carrier board inside.
+Yes, this is possible, as there is an ethernet port on the Raspberry Pi carrier board inside. However, we suggest the wifi connection which allows the most flexibility in sensor placement.
 
 ### How long is the power cord?
 The power cable is 1.5 meters (5 feet) long. An extension cord can easily be added if you need a longer cord.
