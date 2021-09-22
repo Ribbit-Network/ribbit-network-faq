@@ -45,7 +45,7 @@ The difference between the intensity of the emitted light and the intensity of t
 
 <a href="https://webbook.nist.gov/cgi/cbook.cgi?ID=C124389&Type=IR-SPEC&Index=1#IR-SPEC"><img src="co2_transmitance.jpg" width="70%"/></a> 
 
-This plot from the National Institute of Standards and Technology shows the transmittance of light (y-axis) through CO2 across a range of wavelengths (x-axis).
+This plot from the National Institute of Standards and Technology shows the transmittance of light (y-axis) through CO2 across a range of wavelengths (x-axis). Note the narrow dip in transmittance down to nearly zero left of the 5 μm mark. This is the 4.26 μm [absorption band](https://en.wikipedia.org/wiki/Absorption_band) of CO2 that the NDIR sensors are looking for.
 
 These measurements need to take into account air temperature and pressure, which is why the frog sensors also measure these properties. 
 The [ideal gas law](https://en.wikipedia.org/wiki/Ideal_gas_law), in the form PV = nRT describes the relationship between the pressure (P),  volume (V), temperature (T), and amount of a gas substance (n) with the ideal gas constant (R).
