@@ -43,7 +43,8 @@ Light at the mid-infrared wavelength of 4.26 μm (4.26 x 10^-6 meters) in partic
 That means that a portion of the emitted light will effectively be blocked by CO2 in the air in proportion to the amount of CO2. 
 The difference between the intensity of the emitted light and the intensity of the detected light can be used to determine the CO2 concentration.
 
-<a href="https://webbook.nist.gov/cgi/cbook.cgi?ID=C124389&Type=IR-SPEC&Index=1#IR-SPEC"><img src="co2_transmitance.jpg" width="30%"/></a> 
+<a href="https://webbook.nist.gov/cgi/cbook.cgi?ID=C124389&Type=IR-SPEC&Index=1#IR-SPEC"><img src="co2_transmitance.jpg" width="70%"/></a> 
+
 This plot from the National Institute of Standards and Technology shows the transmittance of light (y-axis) through CO2 across a range of wavelengths (x-axis).
 
 These measurements need to take into account air temperature and pressure, which is why the frog sensors also measure these properties. 
