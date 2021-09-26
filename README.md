@@ -61,11 +61,22 @@ Read more details about how temperature and pressure affect NDIR CO2 measurement
 
 If you have completed [assembling and setting up your frog sensor](https://github.com/Ribbit-Network/ribbit-network-frog-sensor/blob/main/assembly-instructions/0-start-here.md) or if you are looking at data on the [dashboard](https://ribbit-network.herokuapp.com/) you might be wondering what the CO2 data plotted over time "should" look like, or why it looks the way it does.
 
-Plants take up CO2 for use in photosynthesis during the day. Your CO2 sensor may pick up on this daily (also called diurnal) cycle! In areas with lots of vegetation, you may see CO2 concentrations rise during the nighttime when plants are not performing photosynthesis, but as the sun rises and plants "wake up" the CO2 levels may decrease.
+<img src="co2_example.jpg" width="70%"/>
+
+#### Cycles and patterns:
+Plants take up CO2 for use in photosynthesis during the day. Your CO2 sensor may pick up on this daily (also called diurnal) cycle! In areas with lots of vegetation, you may see CO2 concentrations rise during the nighttime when plants are not performing photosynthesis, but as the sun rises and plants "wake up" the CO2 levels may decrease. You can see evidence of this cycle in the plot above.
 
 This plant-driven cycle also changes seasonally, with deciduous vegetation active in the summer lowering CO2 concentrations, and inactive in the winter allowing CO2 concentrations to rise. In fact, because most of Earth's forests are located in the Northern Hemisphere, this seasonal cycle can be seen in global estimates of atmospheric CO2. During the Northern Hemisphere summer global average CO2 is less than that in the Northern Hemisphere winter. Read more about the differences in CO2 patterns by latitude in [this article from the Scripps Institution of Oceanography](https://keelingcurve.ucsd.edu/2013/05/07/why-are-seasonal-co2-fluctuations-strongest-in-northern-latitudes/).
 
+You may also see diurnal patterns caused by human activity. If your sensor is in an urban or suburban residential area you may see increases in CO2 concentration during peak hours of car traffic, such as from morning and afternoon commutes as people drive to and from workplaces. In the plot above, there are some rises in CO2 concentration (not the narrowest spikes though) around 8 am and 5 pm on the 17th that may be caused by car traffic.
+
 For more examples, see [this research paper (Imasu & Tanabe, 2018)](http://dx.doi.org/10.3390/atmos9100367) which used NDIR CO2 sensors at different locations around Tokyo, Japan to look at CO2 concentration patterns.
+
+#### Noisy data or spikes
+
+You may see "noisy" data where the CO2 measurements bounces up and down minute to minute creating jagged lines on the plots (such as in the plot above). This is to be expected somewhat, and can likely be attributed to the accuracy of the NDIR sensors. These relatively low-cost sensors have a manufacturer stated accuracy of +/- 30 ppm. This means that even if the local CO2 concentration is not changing, the measurements may bounce around by this amount.
+
+Do you see "spikes" in the CO2 concentration where it rises steeply much more than typical noise, then drops back down over the course of several minutes? This is likely not noise, but a true measurement of air with elevated CO2! Think about the placement of your sensor, is it near a road or parking lot where passing or idling cars can create a "cloud" of exhaust that blows by the sensor? These spikes are signatures of nearby CO2 sources before the gas has dispersed. The plot above has several big jumps in CO2 concentration in the morning and in the evening, likely due to the sensor being installed near a parking lot, it could be picking up on local emissions from cars coming and going from the parking lot.
 
 ### Is the current rise in atmospheric CO2 that is driving climate change caused by human activity (primarily burning fossil fuels)?
 
