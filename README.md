@@ -57,3 +57,19 @@ This means that as air pressure increases more air molecules will be within the 
 Conversely as temperature increases and air molecules move around faster fewer air molecules will be within the sample volume and we can expect the amount of CO2 detected in that volume to be smaller.
 Read more details about how temperature and pressure affect NDIR CO2 measurements [here](https://www.bapihvac.com/wp-content/uploads/2011/04/Altitude_Temperature_and_CO2.pdf).
 
+### What "should" the CO2 data look like?
+
+If you have completed [assembling and setting up your frog sensor](https://github.com/Ribbit-Network/ribbit-network-frog-sensor/blob/main/assembly-instructions/0-start-here.md) or if you are looking at data on the [dashboard](https://ribbit-network.herokuapp.com/) you might be wondering what the CO2 data plotted over time "should" look like, or why it looks the way it does.
+
+Plants take up CO2 for use in photosynthesis during the day. Your CO2 sensor may pick up on this daily (also called diurnal) cycle! In areas with lots of vegetation, you may see CO2 concentrations rise during the nighttime when plants are not performing photosynthesis, but as the sun rises and plants "wake up" the CO2 levels may decrease.
+
+This plant-driven cycle also changes seasonally, with deciduous vegetation active in the summer lowering CO2 concentrations, and inactive in the winter allowing CO2 concentrations to rise. In fact, because most of Earth's forests are located in the Northern Hemisphere, this seasonal cycle can be seen in global estimates of atmospheric CO2. During the Northern Hemisphere summer global average CO2 is less than that in the Northern Hemisphere winter. Read more about the differences in CO2 patterns by latitude in [this article from the Scripps Institution of Oceanography](https://keelingcurve.ucsd.edu/2013/05/07/why-are-seasonal-co2-fluctuations-strongest-in-northern-latitudes/).
+
+For more examples, see [this research paper (Imasu & Tanabe, 2018)](http://dx.doi.org/10.3390/atmos9100367) which used NDIR CO2 sensors at different locations around Tokyo, Japan to look at CO2 concentration patterns.
+
+### Is the current rise in atmospheric CO2 that is driving climate change caused by human activity (primarily burning fossil fuels)?
+
+Yes. ([1](https://climate.nasa.gov/causes/),[2](https://www.climate.gov/news-features/climate-qa/are-humans-causing-or-contributing-global-warming),[3](https://ec.europa.eu/clima/change/causes_en),[4](https://keelingcurve.ucsd.edu/2018/09/19/is-the-current-rise-in-co2-definitely-caused-by-human-activities/),[5](https://www.climate.gov/news-features/climate-qa/which-emits-more-carbon-dioxide-volcanoes-or-human-activities),[6](https://www.edf.org/climate/9-ways-we-know-humans-triggered-climate-change),[7](https://skepticalscience.com/co2-increase-is-natural-not-human-caused.htm),[8](https://www.science.org.au/learning/general-audience/science-climate-change/3-are-human-activities-causing-climate-change),[9](https://www.metoffice.gov.uk/weather/climate-change/causes-of-climate-change),[10](https://royalsociety.org/topics-policy/projects/climate-change-evidence-causes/question-3/),[11](https://www.ucsusa.org/resources/are-humans-major-cause-global-warming))
+
+
+
