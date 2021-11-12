@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "spestana",
+      "name": "Steven Pestana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/650301?v=4",
+      "profile": "https://spestana.github.io/",
+      "contributions": [
+        "data",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "ribbit-network-faq",
+  "projectOwner": "Ribbit-Network",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
