@@ -1,6 +1,6 @@
 # Ribbit Network Frequently Asked Questions
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Frequently Asked Questions About the Ribbit Network
 
@@ -101,6 +101,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://spestana.github.io/"><img src="https://avatars.githubusercontent.com/u/650301?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Steven Pestana</b></sub></a><br /><a href="#data-spestana" title="Data">🔣</a> <a href="https://github.com/Ribbit-Network/ribbit-network-faq/commits?author=spestana" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://keenanjohnson.com"><img src="https://avatars.githubusercontent.com/u/2559382?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Keenan Johnson</b></sub></a><br /><a href="https://github.com/Ribbit-Network/ribbit-network-faq/commits?author=keenanjohnson" title="Documentation">📖</a></td>
   </tr>
 </table>
 
