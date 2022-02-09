@@ -21,7 +21,7 @@ This project is and will always be Open-Source, meaning you are encouraged to bu
 The sensor uses a wi-fi radio to connect to the internet in order to send sensor data to the Ribbit Network Database and recieve Software Updates from the Ribbit team.
 
 ### Can the public data be used to locate my sensor?
-[The sensor rounds it's GPS location](https://github.com/Ribbit-Network/ribbit-network-frog-sensor/issues/41) it publishes to the public database. This means that it is not possible to specifically locate the sensor. Additionally, the sensor does not contain or publish any personal data, limiting privacy concerns.
+[The sensor rounds the GPS location](https://github.com/Ribbit-Network/ribbit-network-frog-sensor/issues/41) that it publishes to the public database. This means that it is not possible to specifically locate the sensor. Additionally, the sensor does not contain or publish any personal data, limiting privacy concerns.
 
 ### Is it possible to connect the sensor using an ethernet cord instead of wi-fi?
 Yes, this is possible, as there is an ethernet port on the Raspberry Pi carrier board inside. However, we suggest the wifi connection which allows the most flexibility in sensor placement.
@@ -85,8 +85,11 @@ Do you see "spikes" in the CO2 concentration where it rises steeply much more th
 
 Yes. ([1](https://climate.nasa.gov/causes/),[2](https://www.climate.gov/news-features/climate-qa/are-humans-causing-or-contributing-global-warming),[3](https://ec.europa.eu/clima/change/causes_en),[4](https://keelingcurve.ucsd.edu/2018/09/19/is-the-current-rise-in-co2-definitely-caused-by-human-activities/),[5](https://www.climate.gov/news-features/climate-qa/which-emits-more-carbon-dioxide-volcanoes-or-human-activities),[6](https://www.edf.org/climate/9-ways-we-know-humans-triggered-climate-change),[7](https://skepticalscience.com/co2-increase-is-natural-not-human-caused.htm),[8](https://www.science.org.au/learning/general-audience/science-climate-change/3-are-human-activities-causing-climate-change),[9](https://www.metoffice.gov.uk/weather/climate-change/causes-of-climate-change),[10](https://royalsociety.org/topics-policy/projects/climate-change-evidence-causes/question-3/),[11](https://www.ucsusa.org/resources/are-humans-major-cause-global-warming))
 
+### Is the Frog Sensor secure?
+Yes! Frog sensors use an excellent and very secure software called Balena to manage and secure the computer in the Frog. You can read about the specific security features of [Balena here.](https://www.balena.io/docs/learn/welcome/security/)
 
-
+### How does the Frog Sensor Communicate to the Internet?
+The Frog sensor connects to a 2.4Ghz Wifi connection in order to connect to the internet.
 
 ## Contributors ✨
 
