@@ -14,6 +14,15 @@
         "data",
         "doc"
       ]
+    },
+    {
+      "login": "keenanjohnson",
+      "name": "Keenan Johnson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2559382?v=4",
+      "profile": "http://keenanjohnson.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
